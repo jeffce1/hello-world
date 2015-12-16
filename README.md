@@ -1,4 +1,3 @@
 # hello-world
-Juest another repository
-My name is jeff keating
-dfsdfa
+Just another repository
+Jeff on Github 
